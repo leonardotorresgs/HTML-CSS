@@ -1,0 +1,30 @@
+height - altura
+width - largura
+border - borda
+padding - preenchimento
+margin - margem
+outline - contorno
+
+box-level
+    <div>
+    <h1> - <h6>
+    <main>
+    <header>
+    <nav>
+    <article> 
+    <aside>
+    <footer>
+    <form>
+    <video>
+inline-level
+    <span>
+    <a>
+    <code>
+    <small>
+    <strong>
+    <em>
+    <sup>-<sub>
+    <label>
+    <button>
+    <input>
+    <select>

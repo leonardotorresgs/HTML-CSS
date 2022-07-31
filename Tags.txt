@@ -1,0 +1,48 @@
+CTRL + Shift + P - Envelopar
+
+<h1, h2, h3, h4, h5, h6> - níveis de títulos
+<p>
+<hr> - linha horizontal
+<br> - quebra de linha
+&lt; &gt; - colocar simbolo de menor que e maior que
+&#x... - adicionar emoji
+<img> - adicionar imagem
+<link: favicon>
+<address> - adicionar endereço
+<b> - negrito (não semântico)
+<strong> - negrito (semântico)
+<i> - itálico (não semântico)
+<em> - itálico (semântico)
+<mark> - marca texto
+<big> - letra um pouco maior (tag não conforme/obsoleta)
+<small> - letra um pouco menor
+<del> - texto riscado
+<ins> - sublinhado (semântico)
+<u> - sublinhado (não semântico)
+<sup> - texto sobrescrito
+<sub> - texto subscrito
+<code> - deixa a fonte monoespaçada, boa para leitura de códigos
+<pre> - levar em conta na exibição a idendação do código
+<q> - citação simples
+<blockquote> - citação com quebra de linha e deslocamento para direita (posso referenciar com o parâmetro "cite= <URL> ")
+<abbr> - exibir significado de siglas
+<bdo dir="rlt"> - texto fica escrito da direita para esquerda (invertido) 
+<ol> - lista ordenada (type="1, A, a, I, i") (starts="<onde iniciar a contagem>")
+<li> - item de lista
+<ul> - lista sem considerar ordem (type="disc, circle ou square")
+<dl> - lista de definição
+<dt> - termo
+<dd> - descrição
+<a> - âncora, adicionar link (href="<URL>)
+	//se for link externo: "target="_blank" rel="external" 
+	//se for interno: target="_self" rel="next ou prev"
+	//para download: download="<nome do arquivo>" type="<exemplo: application/pdf>"
+	http://www.iana.org/assignments/media-types/media-types.xhtml
+<picture> - adicionar imagens dinâmicas
+<source> - (media="max-width: ...px" srcset="<endereço da imagem>" type="<exemplo: imagem/png>"
+<audio> - (preload=" " controls)
+<video> - adicionar um video
+<>
+
+
+

@@ -1,0 +1,18 @@
+cores primárias: amarelo, azul, vermelho
+cores sencundárias: laranja, verde, violeta
+cores terciárias: <nome da primária> e depois <nome da secundária>
+amarelo-esverdeado, amarelo alaranjado, vermelho alaranjado, vermelho arroxeado, azul arroxeado, azul esverdeado
+
+cores frias (amarelo esverdeado até violeta) e cores quentes (amarelo até vermelho arroxeado)
+
+paleta: de 3 a 5 cores (desconsiderando preto e branco)
+
+cores complementares: cores com mais contraste entre si, diametralmente opostas
+cores análogas: cores vizinhas, cria um degradê
+cores análogas e uma complementar
+cores análogas relacionadas: duas vizinhas e uma pulando uma casa, criando um contraste maior qque a simplesmente relacionadas
+cores intercaladas: 
+cores triádicas: intercaladas pulando três casas
+cores em quadrado: intercaladas pulando duas casas
+cores tetrádicas: formando um retângulo no circulo cromático
+monocromia: uma unica que cor que varia em saturação e brilho/luminosidade
